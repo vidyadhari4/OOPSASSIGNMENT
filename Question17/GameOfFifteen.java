@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 import javax.swing.SwingUtilities;
 
 // We are going to create a Game of 15 Puzzle with Java 8 and Swing
-// If you have some questions, feel free to ue comments ;)
+
 public class GameOfFifteen extends JPanel { // our grid will be drawn in a dedicated Panel
   
   // Size of our Game of Fifteen instance
